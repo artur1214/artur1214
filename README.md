@@ -43,8 +43,6 @@
 
 ### 🌐 Other Technologies
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
-
-
 [![Shopify](https://img.shields.io/badge/shopify-96BF48.svg?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)  
 [![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 
